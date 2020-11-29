@@ -1,10 +1,10 @@
-# Xamarin-GoogleSheetsDB
+# Xamarin Google Sheets Web Service
 
-A Xamarin Forms sample app that uses Google Sheets as a DB!
+A Xamarin Forms sample app that uses Google Sheets as a Backend Web service & Database!
 
 ## Details
 
-Here's a link to the technical article detailing all the work that needs to be done
+Here's a link to the technical article detailing all the work that needs to be done https://bit.ly/36hTEoZ
 
 ## Video
 
